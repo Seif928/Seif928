@@ -61,6 +61,5 @@ Clean Architecture
 :** A modern Flutter food delivery application designed to provide a seamless ordering experience, featuring restaurant and meal browsing, product details, cart management, and a responsive user interface.
 
 
-
   <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" width="180">
 </a>
