@@ -61,5 +61,5 @@ Clean Architecture
 :** A modern Flutter food delivery application designed to provide a seamless ordering experience, featuring restaurant and meal browsing, product details, cart management, and a responsive user interface.
 
 
-  <img src="https://imageproxy.youversionapi.com/https://s3.amazonaws.com/yvplans/16166/720x405.jpg" alt="courage your self" width="180">
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSioiD20Re-6XLDn_2jkz0LJdhJ97B8sQgtAytjuaaGxA&s" alt="encourage yourself" width="180">
 </a>
